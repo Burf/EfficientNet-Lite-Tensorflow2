@@ -18,7 +18,7 @@ The implementation is based on [official implementation](https://github.com/tens
 ## Requirements
 
 - Python 3
-- tensorflow 2
+- tensorflow 2.2▲
 - keras
 - tensorflow_hub (Use the pre-trained weights)
    
