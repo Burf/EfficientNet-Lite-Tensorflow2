@@ -2,7 +2,7 @@
 
 This is an implementation of "EfficientNet-Lite" on Keras and Tensorflow.
 
-The implementation is based on [official implementation](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/lite).
+The implementation is based on [official implementation](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet/lite) and [keras implementation](https://github.com/keras-team/keras-applications/blob/master/keras_applications/efficientnet.py).
 
 ## Model
 
@@ -19,7 +19,6 @@ The implementation is based on [official implementation](https://github.com/tens
 
 - Python 3
 - tensorflow 2.2▲
-- keras
 - tensorflow_hub (Use the pre-trained weights)
    
 ## Contributor
